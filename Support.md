@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Support
+parent: Support
 permalink: /support/
 ---
 
@@ -11,7 +12,6 @@ permalink: /support/
 </style>
 
 
-## Support Flow and Communication Etiquette
 
 The Pinternship programme follows a structured support and grievance redressal mechanism to ensure clarity, accountability, and timely resolution of participant queries. All students are required to follow the prescribed support flow in sequence before escalating any issue.
 
